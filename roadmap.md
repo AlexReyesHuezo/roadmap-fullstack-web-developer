@@ -4,7 +4,7 @@
 
 ### Frontend
 
-#### Markdown
+#### ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 - Standard Markdown: [Markdown Guide](https://www.markdownguide.org/)
 - Github Flavored Markdown: [Github Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -12,7 +12,7 @@
 - Creating a README.md file for your project: [GitHub guide for README files](https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - Use Dillinger to practice Markdown: [Dillinger](https://dillinger.io/)
 
-#### HTML
+#### ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 - HTML5: [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - HTML Semantic Elements: [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -40,6 +40,22 @@
 - HTML Design Principles (W3C): [HTML Design Principles](https://www.w3.org/TR/html-design-principles/)
 - HTML Specification: [HTML Specification](https://html.spec.whatwg.org/multipage/)
 - MathML: [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML)
+
+#### ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+#### ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+#### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend
 
