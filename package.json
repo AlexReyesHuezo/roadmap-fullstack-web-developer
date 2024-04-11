@@ -1,0 +1,23 @@
+{
+  "name": "roadmap-webdev",
+  "version": "1.0.0",
+  "description": "This are the techs and topics I have considered to be a web developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexReyesHuezo/roadmap-fullstack-web-developer.git"
+  },
+  "keywords": ["Markdown", "HTML", "11ty"],
+  "author": "Alex Reyes Huezo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexReyesHuezo/roadmap-fullstack-web-developer/issues"
+  },
+  "homepage": "https://github.com/AlexReyesHuezo/roadmap-fullstack-web-developer#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
