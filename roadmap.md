@@ -79,6 +79,21 @@
 
 #### ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+- Bootstrap 5 theory and installation: [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- Bootstrap 5 components: [Bootstrap 5 components](https://getbootstrap.com/docs/5.0/components/)
+- Bootstrap 5 utilities: [Bootstrap 5 utilities](https://getbootstrap.com/docs/5.0/utilities/)
+- Bootstrap 5 layout: [Bootstrap 5 layout](https://getbootstrap.com/docs/5.0/layout/)
+- Bootstrap 5 forms: [Bootstrap 5 forms](https://getbootstrap.com/docs/5.0/forms/overview/)
+- Bootstrap 5 Content: [Bootstrap 5 content](https://getbootstrap.com/docs/5.0/content/)
+- Bootstrap 5 customization: [Bootstrap 5 customization](https://getbootstrap.com/docs/5.0/customize/overview/)
+- Bootstrap 5 Utilities API: [Bootstrap 5 Utilities](https://getbootstrap.com/docs/5.0/utilities/)
+- Bootstrap 5 Extending capabilities: [Bootstrap 5 Extending](https://getbootstrap.com/docs/5.0/extend/)
+- Bootstrap 5 Migration: [Bootstrap 5 Migration](https://getbootstrap.com/docs/5.0/migration/)
+- Bootstrap 5 Icons: [Bootstrap 5 Icons](https://icons.getbootstrap.com/)
+- Bootstrap 5 Themes: [Bootstrap 5 Themes](https://themes.getbootstrap.com/)
+- Bootstrap 5 Examples: [Bootstrap 5 Examples](https://getbootstrap.com/docs/5.0/examples/)
+- Bootstrap 5 with React: [Bootstrap 5 React](https://react-bootstrap.github.io/)
+
 #### ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 #### ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
