@@ -96,6 +96,22 @@
 
 #### ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+- Sass Basics: [Sass Basics](https://sass-lang.com/guide)
+- Sass Variables: [Sass Variables](https://sass-lang.com/documentation/variables)
+- Sass Nesting: [Sass Nesting](https://sass-lang.com/documentation/style-rules/nesting)
+- Sass Partials: [Sass Partials](https://sass-lang.com/documentation/at-rules/import)
+- Sass Modules: [Sass Modules](https://sass-lang.com/documentation/at-rules/use)
+- Sass Mixins: [Sass Mixins](https://sass-lang.com/documentation/at-rules/mixin)
+- Sass Functions: [Sass Functions](https://sass-lang.com/documentation/at-rules/function)
+- Sass Extends: [Sass Extends](https://sass-lang.com/documentation/at-rules/extend)
+- Sass Operators: [Sass Operators](https://sass-lang.com/documentation/values/operators)
+- Sass Control Directives: [Sass Control Directives](https://sass-lang.com/documentation/at-rules/control)
+- Sass Comments: [Sass Comments](https://sass-lang.com/documentation/syntax/comments)
+- Sass Output Style: [Sass Output Style](https://sass-lang.com/documentation/cli/dart-sass#style)
+- Sass Guidelines: [Sass Guidelines](https://sass-guidelin.es/)
+- Sass with React: [Sass React](https://create-react-app.dev/docs/adding-a-sass-stylesheet/)
+- Sass with Astro: [Sass Astro](https://docs.astro.build/guides/styling/sass)
+
 #### ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### ![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
