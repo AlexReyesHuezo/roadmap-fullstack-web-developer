@@ -143,9 +143,22 @@
 - Official Tailwind CSS UI Components: [Tailwind CSS Official Components](https://tailwindcss.com/components)
 - Free Tailwind CSS UI Components: [Tailwind CSS Free Components](https://tailwindcomponents.com/)
 - Resources to learn more Tailwind CSS: [Tailwind CSS Libraries](https://tailwindcss.com/resources)
-- Labrary based on Tailwind CSS for React: [Tailwind CSS React](https://headlessui.dev/)
+- Components based on Tailwind CSS for React: [Tailwind CSS React](https://headlessui.dev/)
 
 #### ![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+- Shadcn UI to build your components library: [Shadcn UI](https://ui.shadcn.com/)
+- Shadcn UI Installation: [Shadcn UI React](https://ui.shadcn.com/docs/installation)
+- Shadcn UI configuration: [Shadcn UI Configuration](https://ui.shadcn.com/docs/components-json)
+- Shadcn UI Theme: [Shadcn UI Theme](https://ui.shadcn.com/docs/theming)
+- Shadcn UI CLI: [Shadcn UI CLI](https://ui.shadcn.com/docs/cli)
+- Shadcn UI Figma UI Kit: [Shadcn UI Figma](https://ui.shadcn.com/docs/figma)
+- Shadcn UI Components: [Shadcn UI Components](https://ui.shadcn.com/docs/components)
+- Shadcn UI Blocks: [Shadcn UI Blocks](https://ui.shadcn.com/blocks)
+- Shadcn UI Theme Generator: [Shadcn UI Theme Generator](https://gradient.page/tools/shadcn-ui-theme-generator)
+- Shadcn UI Themes & Templates: [Shadcn UI Themes & Templates](https://www.builtatlightspeed.com/category/shadcn-ui)
+- A curated list of awesome things related to Shadcn UI: [Shadcn UI Libs and Components](https://github.com/birobirobiro/awesome-shadcn-ui)
+- Generate UI with Shadcn UI: [V0: From simple text primpts to appealing UIs](https://v0.dev/)
 
 #### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
